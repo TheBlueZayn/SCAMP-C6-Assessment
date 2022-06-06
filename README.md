@@ -1,6 +1,6 @@
-## SheCodeAfrica Assessmemt
+# SheCodeAfrica Assessmemt
 
-# Data Science Project
+## Data Science Project
 
 - One
 - Two
