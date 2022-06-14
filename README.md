@@ -7,7 +7,7 @@
 - Visualising Industries with high fraudulence
 
 ## Libraries Used
-- Pandas for data wramgling 
+- Pandas for data wrangling 
 - Numpy for imputing null values
 - Matplotlib for visualisation
 
