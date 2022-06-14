@@ -11,7 +11,7 @@
 
 ## Analysis of Fake Job Postings
 ## Steps 
-Loading CSV file into a dataframe and inspecting it
+- Loading CSV file into a dataframe and inspecting it
 - Cleaning the dataset
 - Analysing Industries with high fraudulence 
 - Subsetting the first 15 values and plotting a horizontal barplot
