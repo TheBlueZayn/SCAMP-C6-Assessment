@@ -1,16 +1,22 @@
 # SheCodeAfrica Assessmemt
 
 ## Data Science Project
-- README.md contains infomation on the analysis
+- fake_job_posting.csv is the data of analysis
 - main.ipynb contains the code for the analysis
 
-## Analysis of Fake Job Postings
-- Cleaning data
-- Visualising Industries with high fraudulence
-
 ## Libraries Used
-- Pandas for data wrangling 
+- Pandas for data  analysis and wrangling 
 - Numpy for imputing null values
 - Matplotlib for visualisation
+
+## Analysis of Fake Job Postings
+## Steps 
+Loading CSV file into a dataframe and inspecting it
+- Cleaning the dataset
+- Analysing Industries with high fraudulence 
+- Subsetting the first 15 values and plotting a horizontal barplot
+- Customizing the plot with suitable color, fontsize, labels and title. 
+
+
 
 
